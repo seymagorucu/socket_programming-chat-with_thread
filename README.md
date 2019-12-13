@@ -1,4 +1,4 @@
-# socket_programming-chat-with_thread
+# socket_programming_chat_with_thread
 
 
 Project between client and server chat program.
